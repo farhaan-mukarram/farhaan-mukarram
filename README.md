@@ -6,22 +6,32 @@ In addition to my front-end skills, I'm also interested in full-stack developmen
 <!-- Add projects section here -->
 
 # Interests
-- Full-stack development
+- Full-stack development 
 - Data science & machine learning
 
 # Skills and Technologies
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
-- Redux
-- Tailwind CSS
-- Sass
-- Python
-- SQL
-- Java
-- C
+## Front-End Development
+<table>
+  <tr>
+    <td> React </td>
+    <td> Redux </td>
+    <td> TypeScript </td>
+    <td> JavaScript </td>
+    <td> HTML/CSS </td>
+    <td> Tailwind CSS</td>
+    <td> SASS </td>
+  </tr>
+</table>
+  
+## Other
+<table>
+  <tr>
+    <td> Python </td>
+    <td> SQL </td>
+    <td> Java </td>
+    <td> C </td>  
+  </tr>
+</table>
 
 <!--
 **farhaan-mukarram/farhaan-mukarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
