@@ -5,8 +5,8 @@ In addition to my front-end skills, I'm also interested in full-stack developmen
 
 <!-- Add projects section here -->
 
-# Interests⚡
-- Full-stack development 🧑‍💻
+# Interests💡
+- Full-stack development 👨‍💻
 - Data science & machine learning 🤖
 
 # Skills and Technologies 🖥️
