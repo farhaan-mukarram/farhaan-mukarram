@@ -34,16 +34,6 @@ In addition to my front-end skills, I'm also interested in full-stack developmen
       </a>
     </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="32" width="32" />
-      </a>
-    </td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="32" width="32" />
-      </a>
-    </td>
-    <td>
       <a href="https://tailwindcss.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind logo" height="32" width="32" />
       </a>
@@ -51,6 +41,16 @@ In addition to my front-end skills, I'm also interested in full-stack developmen
     <td>
       <a href="https://sass-lang.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass logo" height="32" width="32" />
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="32" width="32" />
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="32" width="32" />
       </a>
     </td>
   </tr>
