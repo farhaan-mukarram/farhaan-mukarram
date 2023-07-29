@@ -1,18 +1,27 @@
 # About me 👋
-Hi there! I'm a junior front-end engineer. I am passionate about creating visually pleasing and functional web applications. I enjoy tackling complex problems and finding creative solutions. 
+
+Hi there! I'm a junior front-end engineer. I am passionate about creating visually pleasing and functional web applications. I enjoy tackling complex problems and finding creative solutions.
 
 In addition to my front-end skills, I'm also interested in data science/machine learning and I often spend my spare time exploring these
 
 <!-- Add projects section here -->
 
 # Interests💡
+
 - Front-End development 👨‍💻
 - Data science & machine learning 🤖
 
 # Skills and Technologies 🖥️
+
 ## Front-End Development
+
 <table>
   <tr>
+    <td>
+      <a href="https://nextjs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs logo" height="32" width="32" />
+      </a>
+    </td>
     <td>
       <a href="https://reactjs.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" height="32" width="32" />
@@ -56,8 +65,8 @@ In addition to my front-end skills, I'm also interested in data science/machine 
   </tr>
 </table>
 
-  
 ## Other
+
 <table>
   <tr>
     <td>
