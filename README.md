@@ -19,47 +19,47 @@ In addition to my front-end skills, I'm also interested in data science/machine 
   <tr>
     <td>
       <a href="https://nextjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs logo" />
       </a>
     </td>
     <td>
       <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo" />
       </a>
     </td>
     <td>
       <a href="https://react-redux.js.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux logo" />
       </a>
     </td>
     <td>
       <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo" />
       </a>
     </td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo" />
       </a>
     </td>
     <td>
       <a href="https://tailwindcss.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind logo" />
       </a>
     </td>
     <td>
       <a href="https://sass-lang.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass logo" />
       </a>
     </td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo" />
       </a>
     </td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo" />
       </a>
     </td>
   </tr>
@@ -71,22 +71,17 @@ In addition to my front-end skills, I'm also interested in data science/machine 
   <tr>
     <td>
       <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python logo" />
       </a>
     </td>
     <td>
       <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" height="32" width="32" />
-      </a>
-    </td>
-    <td>
-      <a href="https://dev.java/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo" />
       </a>
     </td>
     <td>
       <a href="https://en.cppreference.com/w/c/language">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c logo" height="32" width="32" />
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c logo" />
       </a>
     </td>
   </tr>
