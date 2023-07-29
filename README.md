@@ -76,6 +76,8 @@ In addition to my front-end skills, I'm also interested in data science/machine 
 </table>
 
 # Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaan-mukarram&layout=compact)
+<br>
 ![Farhaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhaan-mukarram&show_icons=true&theme=github_dark)
 
 <!--
