@@ -43,6 +43,11 @@ In addition to my front-end skills, I'm also interested in data science/machine 
       </a>
     </td>
     <td>
+      <a href="https://mui.com/">
+        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material ui logo" />
+      </a>
+    </td>
+    <td>
       <a href="https://tailwindcss.com/">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind logo" />
       </a>
