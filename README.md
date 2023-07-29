@@ -1,3 +1,4 @@
+
 # About me 👋
 
 Hi there! I'm a junior front-end engineer. I am passionate about creating visually pleasing and functional web applications. I enjoy tackling complex problems and finding creative solutions.
@@ -73,6 +74,9 @@ In addition to my front-end skills, I'm also interested in data science/machine 
     </td>
   </tr>
 </table>
+
+# Stats
+![Farhaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhaan-mukarram&show_icons=true&theme=github_dark)
 
 <!--
 **farhaan-mukarram/farhaan-mukarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
