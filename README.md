@@ -76,13 +76,15 @@ In addition to my front-end skills, I'm also interested in data science/machine 
 </table>
 
 # Stats
-![Farhaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhaan-mukarram&show_icons=true&theme=github_dark)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=farhaan-mukarram&rank_icon=github&theme=transparent" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaan-mukarram&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&hide_progress=true" />
+</a>
 
 <!--
 **farhaan-mukarram/farhaan-mukarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaan-mukarram&layout=compact)
-<br>
 
 Here are some ideas to get you started:
 
