@@ -75,6 +75,7 @@ In addition to my front-end skills, I'm also interested in data science/machine 
   </tr>
 </table>
 
+<!--
 # Stats
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=farhaan-mukarram&rank_icon=github&theme=transparent" />
