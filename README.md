@@ -1,7 +1,7 @@
 
 # About me 👋
 
-Hi there! I'm a junior front-end engineer. I am passionate about creating visually pleasing and functional web applications. I enjoy tackling complex problems and finding creative solutions.
+Hi there! I'm a front-end engineer passionate about creating user friendly and performant web applications. I enjoy tackling complex problems and finding creative solutions.
 
 In addition to my front-end skills, I'm also interested in data science/machine learning and I often spend my spare time exploring these
 
