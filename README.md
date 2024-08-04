@@ -1,15 +1,13 @@
 # About me 
 
-Hi there! I'm a front-end engineer passionate about creating user-friendly and performant web applications. I enjoy tackling complex problems and finding creative solutions.
-
-In addition to my front-end skills, I'm also interested in data science/machine learning and I often spend my spare time exploring these
+I'm a software engineer specializing in front-end web development, focused on building user-friendly and performant web applications. I am passionate about staying updated with the latest industry trends and advancements. In addition to my front-end expertise, I have a keen interest in artificial intelligence/machine learning and explore these in my spare time.
 
 <!-- Add projects section here -->
 
 # Interests
 
 - Front-End development 
-- Data science & machine learning 
+- Artificial intelligence/machine learning 
 
 # Skills and Technologies
 ## Front-End Development
