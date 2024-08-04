@@ -1,17 +1,17 @@
-# About me 👋
+# About me 
 
-Hi there! I'm a front-end engineer passionate about creating user friendly and performant web applications. I enjoy tackling complex problems and finding creative solutions.
+Hi there! I'm a front-end engineer passionate about creating user-friendly and performant web applications. I enjoy tackling complex problems and finding creative solutions.
 
 In addition to my front-end skills, I'm also interested in data science/machine learning and I often spend my spare time exploring these
 
 <!-- Add projects section here -->
 
-# Interests💡
+# Interests
 
-- Front-End development 👨‍💻
-- Data science & machine learning 🤖
+- Front-End development 
+- Data science & machine learning 
 
-# Skills and Technologies 🖥️
+# Skills and Technologies
 ## Front-End Development
 
 <table>
