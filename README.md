@@ -1,15 +1,15 @@
-# About me 
+# 👋 About me 
 
 I'm a software engineer specializing in front-end web development, focused on building user-friendly and performant web applications. I am passionate about staying updated with the latest industry trends and advancements. In addition to my front-end expertise, I have a keen interest in artificial intelligence/machine learning and explore these in my spare time.
 
 <!-- Add projects section here -->
 
-# Interests
+#💡 Interests
 
 - Front-End development 
 - Artificial intelligence/machine learning 
 
-# Skills and Technologies
+# 🖥️ Skills and Technologies
 ## Front-End Development
 
 <table>
