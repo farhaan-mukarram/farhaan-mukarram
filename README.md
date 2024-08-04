@@ -4,7 +4,7 @@ I'm a software engineer specializing in front-end web development, focused on bu
 
 <!-- Add projects section here -->
 
-#💡 Interests
+# 💡 Interests
 
 - Front-End development 
 - Artificial intelligence/machine learning 
