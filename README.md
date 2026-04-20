@@ -7,8 +7,8 @@ I’m a postgraduate student pursuing a master’s degree in AI. Previously, I w
 
 # 💡 Interests
 
-- Front-End development 
-- Artificial intelligence/machine learning 
+- AI/Machine Learning
+- Web/software development
 
 # 🖥️ Skills and Technologies
 ## Web Development
