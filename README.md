@@ -10,8 +10,9 @@ I'm a software engineer specializing in front-end web development, focused on bu
 - Artificial intelligence/machine learning 
 
 # 🖥️ Skills and Technologies
-## Front-End Development
+## Web Development
 
+### Front-end
 <table>
    <tr>
       <td align="center">
@@ -47,13 +48,24 @@ I'm a software engineer specializing in front-end web development, focused on bu
          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo" /> </a>
       </td>
       <td align="center">
-         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo" /> </a>
+         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="css3 logo" /> </a>
       </td>
    </tr>
 </table>
 
+### Back-end
+<table>
+  <tr>     
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Other
+
+## AI/Machine Learning
 
 <table>
   <tr>
@@ -63,13 +75,33 @@ I'm a software engineer specializing in front-end web development, focused on bu
       </a>
     </td>
     <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo" />
+      <a href="https://numpy.org/">
+        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy" alt="numpy logo" />
       </a>
     </td>
     <td align="center">
-      <a href="https://en.cppreference.com/w/c/language">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c logo" />
+      <a href="https://pandas.pydata.org/">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="pandas logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://scikit-learn.org/stable/index.html">
+        <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&color=blue" alt="sklearn logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://opencv.org/">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="opencv logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/">
+        <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/docs/transformers/index">
+        <img src="https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge&logo=huggingface&color=gray" alt="huggingface logo" />
       </a>
     </td>
   </tr>
