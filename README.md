@@ -11,8 +11,49 @@ I’m a postgraduate student pursuing a master’s degree in AI. Previously, I w
 - Web/software development
 
 # 🖥️ Skills and Technologies
-## Web Development
+## AI/Machine Learning
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://numpy.org/">
+        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy" alt="numpy logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="pandas logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://scikit-learn.org/stable/index.html">
+        <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&color=blue" alt="sklearn logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://opencv.org/">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="opencv logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/">
+        <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/docs/transformers/index">
+        <img src="https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge&logo=huggingface&color=gray" alt="huggingface logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Web Development
 ### Front-end
 <table>
    <tr>
@@ -66,47 +107,7 @@ I’m a postgraduate student pursuing a master’s degree in AI. Previously, I w
 </table>
 
 
-## AI/Machine Learning
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python logo" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://numpy.org/">
-        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy" alt="numpy logo" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="pandas logo" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://scikit-learn.org/stable/index.html">
-        <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&color=blue" alt="sklearn logo" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://opencv.org/">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="opencv logo" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pytorch.org/">
-        <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch logo" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://huggingface.co/docs/transformers/index">
-        <img src="https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge&logo=huggingface&color=gray" alt="huggingface logo" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!--
 # Stats
