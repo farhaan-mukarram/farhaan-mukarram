@@ -49,7 +49,7 @@ Currently pursuing a Master's degree in AI at the University of Edinburgh, focus
 </table>
 
 ## Software Engineering
-### Web Development
+### Front-end
 <table>
    <tr>
       <td align="center">
