@@ -1,14 +1,9 @@
 # 👋 About me 
+Front-end leaning software engineer with 3+ years of experience in building responsive, user-friendly and performant web applications. Strong problem-solving skills and ability to work under pressure, consistently delivering high-quality results within deadlines. Proven track record of delivering features end-to-end, collaborating effectively with cross-functional teams in the process, whilst maintaining existing ones. Adaptable and quick to learn new technologies to meet the needs of client projects.
 
-I’m a postgraduate student pursuing a master’s degree in AI. Previously, I worked as a software engineer specializing in front-end web development, where I focused on building user-friendly, high-performance web applications. I’m passionate about staying up to date with the latest industry trends and continuously improving my skills.
-
+Currently pursuing a Master's degree in AI at the University of Edinburgh, focused on developing a deeper understanding of underlying principles of both classic and modern AI/ML systems. Interested in working at the intersection of AI and software engineering, building reliable and useful AI-powered software and systems.
 
 <!-- Add projects section here -->
-
-# 💡 Interests
-
-- AI/Machine Learning
-- Web/software development
 
 # 🖥️ Skills and Technologies
 ## AI/Machine Learning
@@ -53,8 +48,8 @@ I’m a postgraduate student pursuing a master’s degree in AI. Previously, I w
   </tr>
 </table>
 
-## Web Development
-### Front-end
+## Software Engineering
+### Web Development
 <table>
    <tr>
       <td align="center">
