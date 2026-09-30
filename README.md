@@ -1,12 +1,64 @@
-# 👋 About me 
-Front-end leaning software engineer with 3+ years of experience in building responsive, user-friendly and performant web applications. Strong problem-solving skills and ability to work under pressure, consistently delivering high-quality results within deadlines. Proven track record of delivering features end-to-end, collaborating effectively with cross-functional teams in the process, whilst maintaining existing ones. Adaptable and quick to learn new technologies to meet the needs of client projects.
+# Farhaan Mukarram
+**Software Engineer | AI & Machine Learning Specialist**
 
-Currently pursuing a Master's degree in AI at the University of Edinburgh, focused on developing a deeper understanding of underlying principles of both classic and modern AI/ML systems. Interested in working at the intersection of AI and software engineering, building reliable and useful AI-powered software and systems.
+Software Engineer with 3+ years of experience in building and delivering scalable software solutions across the full development lifecycle. Experienced in developing production applications, integrating APIs, and collaborating with cross-functional teams to translate complex business requirements into reliable software.
 
-<!-- Add projects section here -->
+Recently completed an MSc in AI, gaining practical experience in building LLM-powered applications, fine-tuning transformer models, evaluating AI systems, and developing machine learning solutions using Python and modern AI frameworks. Interested in working at the intersection of AI and software engineering, building reliable and useful AI-powered software and systems.
 
-# 🖥️ Skills and Technologies
-## AI/Machine Learning
+---
+
+## Projects
+
+<!-- ### AI & Machine Learning Research -->
+<!-- 
+**Fine-grained Video Understanding in VLMs (Master's Dissertation)**  
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OPENCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![TRANSFORMERS](https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+- Undertook a study to explore the limitations of Vision-Language Models (VLMs) for video understanding, focusing on action frequency and event sequencing.
+- Created a custom dataset of 600 videos by sampling from publicly available datasets and implemented a frame extraction pipeline to save frames to local storage.
+- Performed ablation studies to optimize the balance between model size and frame sampling frequency for production efficiency.
+
+**Mathematical Reasoning in LLMs**  
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TRANSFORMERS](https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![WEIGHTS & BIASES](https://img.shields.io/badge/WEIGHTS%20%26%20BIASES-FF69B4?style=for-the-badge)
+- Explored the effect of refined and structured prompting on model performance for a small LLM, evaluating results both qualitatively and quantitatively.
+- Fine-tuned models using Supervised Fine-Tuning (SFT) and Reinforcement Learning (GRPO) on maths word problems; observed that SFT alone outperformed SFT+GRPO by 2% on the reasoning benchmark. -->
+
+**AI Support Intent Classifier**
+
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![OLLAMA](https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLITE-07A594?style=for-the-badge&logo=sqlite&logoColor=white)
+- Built a FastAPI service around an LLM-based intent classifier with a Pythonic backend for structured output.
+- Implemented SQLite persistence and utilized the Slack API to provide structured notifications.
+
+**AI-powered Walking Tour**  
+
+![REACT](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![VERCEL](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- Designed and built an AI-powered personalized city walking tour generator for Edinburgh from scratch, focusing on a unique user interface for real-time exploration.
+- Developed the entire frontend using HTML, CSS, React, and TypeScript, paying close attention to layout, responsiveness, and UX flow.
+
+
+
+**Nuclei Image Patch Classification**  
+
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OPENCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- Developed a VGGNet-inspired Convolutional Neural Network (CNN) to classify image patches, achieving a 4% improvement in baseline accuracy.
+- Applied data augmentation techniques, including rotation, normalization, image flipping, and color jitter, to enhance model generalization and minimize overfitting.
+
+---
+
+<!-- ### Software Engineering -->
+
+
+
+
+
+<!-- **Rail Delay Prediction for Scotland**  
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![BEAUTIFULSOUP](https://img.shields.io/badge/BEAUTIFULSOUP-07E008?style=for-the-badge) ![XGBOOST](https://img.shields.io/badge/XGBOOST-20B2T9?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-FF69B4?style=for-the-badge)
+- Parsed weather station data from an HTML webpage into a structured format and fetched data from a public weather API.
+- Applied geospatial distance calculations to build the training dataset for rail delay predictive models using XGBoost and LSTM. -->
+
+---
+
+## Technical Skills
+### AI/Machine Learning
 
 <table>
   <tr>
@@ -48,8 +100,8 @@ Currently pursuing a Master's degree in AI at the University of Edinburgh, focus
   </tr>
 </table>
 
-## Software Engineering
-### Front-end
+### Software Engineering
+#### Front-end
 <table>
    <tr>
       <td align="center">
@@ -90,7 +142,7 @@ Currently pursuing a Master's degree in AI at the University of Edinburgh, focus
    </tr>
 </table>
 
-### Back-end
+#### Back-end
 <table>
   <tr>     
     <td align="center">
@@ -100,30 +152,3 @@ Currently pursuing a Master's degree in AI at the University of Edinburgh, focus
     </td>
   </tr>
 </table>
-
-
-
-
-<!--
-# Stats
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=farhaan-mukarram&rank_icon=github&theme=transparent" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhaan-mukarram&layout=compact&langs_count=8&card_width=300&size_weight=0.5&count_weight=0.5&hide_progress=true" />
-</a>
-
-<!--
-**farhaan-mukarram/farhaan-mukarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
