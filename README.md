@@ -25,6 +25,7 @@ Recently completed an MSc in AI, gaining practical experience in building LLM-po
 **AI Support Intent Classifier**
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![OLLAMA](https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLITE-07A594?style=for-the-badge&logo=sqlite&logoColor=white)
+- Benchmarked and compared two different approaches for intent classification for customer support tickets: zero-shot Natural Language Inference (BART) vs. LLM-based classification (Qwen 2B) across 20+ intent categories on 1,000 tickets, which were sampled from a publicly available dataset, comparing F1 scores (0.72 for the LLM vs. 0.33 for the NLI model) and latency (329ms for the LLM vs. 221ms for the NLI model).
 - Built a FastAPI service around an LLM-based intent classifier with a Pythonic backend for structured output.
 - Implemented SQLite persistence and utilized the Slack API to provide structured notifications.
 
