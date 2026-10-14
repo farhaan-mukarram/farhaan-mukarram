@@ -22,6 +22,13 @@ Recently completed an MSc in AI, gaining practical experience in building LLM-po
 - Explored the effect of refined and structured prompting on model performance for a small LLM, evaluating results both qualitatively and quantitatively.
 - Fine-tuned models using Supervised Fine-Tuning (SFT) and Reinforcement Learning (GRPO) on maths word problems; observed that SFT alone outperformed SFT+GRPO by 2% on the reasoning benchmark. -->
 
+**Mini Wikipedia RAG**
+
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![CHROMADB](https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge)![TRANSFORMERS](https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge&logo=huggingface&color=gray)
+- Built a retrieval-augmented generation (RAG) question-answering pipeline on a public mini Wikipedia dataset (918 questions) using Chroma dense retrieval (all-MiniLM-L6-v2 embeddings, top-5) with Qwen3-4B as the generator.
+- Raised LLM-judged accuracy by 26 percentage points (51.9% to 77.8%) over a non-retrieval baseline, with answers
+graded by a separate LLM (Gemma-4-E4B).
+
 **AI Support Intent Classifier**
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![OLLAMA](https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLITE-07A594?style=for-the-badge&logo=sqlite&logoColor=white)
