@@ -1,5 +1,5 @@
 # Farhaan Mukarram
-**Software Engineer | AI & Machine Learning Specialist**
+**AI Engineer | Software Engineer**
 
 Software Engineer with 3+ years of experience in building and delivering scalable software solutions across the full development lifecycle. Experienced in developing production applications, integrating APIs, and collaborating with cross-functional teams to translate complex business requirements into reliable software.
 
