@@ -26,8 +26,8 @@ Recently completed an MSc in AI, gaining practical experience in building LLM-po
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![CHROMADB](https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge)![TRANSFORMERS](https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge&logo=huggingface&color=gray)
 - Built a retrieval-augmented generation (RAG) question-answering pipeline on a public mini Wikipedia dataset (918 questions) using Chroma dense retrieval (all-MiniLM-L6-v2 embeddings, top-5) with Qwen3-4B as the generator.
-- Raised LLM-judged accuracy by 26 percentage points (51.9% to 77.8%) over a non-retrieval baseline, with answers
-graded by a separate LLM (Gemma-4-E4B).
+- Raised LLM-judged accuracy by 33 percentage points (47.4% to 80.2%) over a non-retrieval baseline under deterministic decoding, with answers graded by a separate LLM (Gemma-4-E4B).
+- Analysed and categorised 50 randomly sampled failures into retrieval errors, generation errors, annotation errors, vague questions and judge errors, and evaluated cross-encoder reranking (ms-marco-MiniLM-L6-v2, top-10 to top-5), which gave no significant gain (80.0% vs 80.2%).
 
 **AI Support Intent Classifier**
 
